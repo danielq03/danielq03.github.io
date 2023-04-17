@@ -1,0 +1,48 @@
+div img{
+    height: 300px;
+    width: 400px;
+
+}
+body{
+    font-family: "Montserrat";
+    margin-top: 50px;
+    margin-bottom: 200px;
+    padding: 0 30px;
+}
+a{
+    text-decoration: none;
+    color: inherit;
+}
+
+ul{
+    list-style-type: none;
+}
+div.container{
+    text-transform: uppercase;
+    grid-column: 1;
+    text-align: left;
+    
+}
+div.logo{
+    font-weight: bolder;
+}
+li a:hover{
+    text-decoration: underline;
+}
+nav{
+    font-size: larger;
+}
+p{
+    font-weight: bold;
+    text-align: left;
+    font-size: x-large
+}
+h1{
+    font-size: xx-large;
+}
+footer{
+    position:fixed;
+    bottom: 10px;
+    width: 1900px;
+    text-align: center;
+    }

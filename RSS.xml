@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- New XML document created with EditiX XML Editor (http://www.editix.com) at Sun Apr 16 16:20:44 GMT+01:00 2023 -->
+
+<rss version="2.0">
+	<channel>
+		<title>Noticias 1 ASIR</title>
+		<link>https://www3.gobiernodecanarias.org/medusa/edublog/iespuertodelacruztelesforobravo/</link>
+		<description/>
+		<language>en-us</language>
+		<copyright> Daniel </copyright>
+		<image>
+			<url/>
+			<title>Noticias sobre 1º ASIR</title>
+			<link>https://blog.iespuertodelacruz.es/</link>
+		</image>
+		<item>
+			<title>Una estudiante de Jaén es única española que consigue una plaza con beca para estudiar en Harvard</title>
+			<link>https://www.elmundo.es/andalucia/2023/04/14/6439351dfdddff9f588b457d.html</link>
+			<pubDate> Viernes, 14 abril 2023 - 13:12</pubDate>
+			<author>Jose Manuel Predosa</author>
+			<category>Educacion</category>
+			<description>
+				<h1>La joven de 18 años estudiará Neuromedicina en esta universidad de Estados Unidos</h1>
+				<p> Isabel María Moreno, alumna del IES Juan López Morillas de Jódar (Jaén), es la única estudiante española que ha logrado plaza con beca en la Universidad de Harvard, en Massachusetts (EEUU), para el curso 2023/2024. </p>
+			</description>
+		</item>
+		<item>
+			<title>Cómo corregir la nueva Selectividad: "Se descuentan 0,25 puntos por falta ortográfica hasta un máximo de dos"</title>
+			<link>https://www.elmundo.es/espana/2023/04/04/642b1734fdddff73648b45ac.html</link>
+			<pubDate>Martes, 4 abril 2023 - 02:30</pubDate>
+			<author>Periodico El Mundo</author>
+			<category>Educacion</category>
+			<description>
+				<h1>Las guías de calificación de la prueba piloto de la Ebau apuntan a criterios más laxos</h1> 
+</description>
+		</item>
+		<item>
+			<title>España acumula cinco récords de días cálidos en el trimestre más frío del año</title>
+			<link>https://elpais.com/clima-y-medio-ambiente/2023-03-30/espana-acumula-cinco-records-de-dias-calidos-en-el-trimestre-mas-frio-del-ano.html</link>
+			<pubDate>31 mar 2023 - 11:09 CEST</pubDate>
+			<author>Victoria Torres Benayas</author>
+			<category>Clima</category>
+			<description>
+				<h1>El miércoles se batieron cinco récords de temperatura mensual, entre los que destacan 30° en los aeropuertos de Bilbao y de San Sebastián</h1> 
+</description>
+		</item>
+	</channel>
+</rss>
